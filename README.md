@@ -17,3 +17,5 @@ Por que isso é importante?
 A proposta busca provocar uma reflexão sobre como podemos utilizar a tecnologia para reduzir as desigualdades sociais e garantir que ninguém seja deixado para trás, especialmente em um contexto em que a tecnologia se torna cada vez mais essencial para o acesso à educação e ao mercado de trabalho.
 
 Convido educadores, desenvolvedores, pesquisadores e empresas a refletirem e discutirem essa ideia, com o objetivo de gerar inovação social. Acreditamos que juntos podemos construir soluções mais inclusivas e sustentáveis para um futuro digital mais justo. 🌍✨
+
+<img width="1339" height="949" alt="canvas" src="https://github.com/user-attachments/assets/03577e0a-a580-4091-a290-d7b286676344" />
